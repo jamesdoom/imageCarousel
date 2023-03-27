@@ -1,0 +1,26 @@
+{
+  "name": "imagecarousel",
+  "version": "1.0.0",
+  "description": "Simple carousel image display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesdoom/imageCarousel.git"
+  },
+  "keywords": [
+    "carousel",
+    "images"
+  ],
+  "author": "Brian Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesdoom/imageCarousel/issues"
+  },
+  "homepage": "https://github.com/jamesdoom/imageCarousel#readme",
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
