@@ -1,0 +1,4 @@
+Create a basic image carousel. Arrows on the left and right will be used to move the images forward and backward.
+The images should automatically move every 5 seconds. A small navigation circles should be at the bottom to indicate which image
+you are currently on and they should be clickable to allow the user to click on that particular image.
+I would like 1 HTML file, 1 JavaScript file, and 1 CSS file. Thank you. 
